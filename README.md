@@ -61,7 +61,7 @@
       </div>
       <div class="medium-4 columns">
         <h3>Javascript</h3>
-        <p> Javascript is an important thing to study and know in the modern era of programming.</p>
+        <p> Javascript is an important thing to study and know in the modern era of programming!</p>
       </div>
       <div class="medium-4 columns">
         <h3>Marketing</h3>
